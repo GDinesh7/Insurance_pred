@@ -115,4 +115,4 @@ The notebook displays the adjusted R-squared as a percentage. Run the notebook t
 
 ## Author
 
-Add your name and contact details here if you want to publish this project.
+G Dinesh
